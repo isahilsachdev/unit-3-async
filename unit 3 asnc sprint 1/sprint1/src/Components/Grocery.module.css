@@ -1,0 +1,42 @@
+.card {
+  display: flex;
+  margin: 18px;
+  width: 500px;
+  border: 1px solid seagreen;
+  border-radius: 14px;
+}
+
+.card:hover {
+  background-color: skyblue;
+}
+
+.details {
+  margin: 14px 5px;
+}
+
+.buttons {
+  margin: 30px 5px;
+  display: flex;
+}
+
+.page {
+  text-align: center;
+  display: flex;
+  /* background-color: red; */
+  width: 150px;
+  margin: 10px auto;
+  font-size: xx-large;
+}
+
+.page > div {
+  display: flex;
+  margin: 4px;
+  cursor: pointer;
+}
+.page > div > div {
+  background-color: royalblue;
+  border: 1px solid royalblue;
+  border-radius: 3px;
+  margin: 5px;
+  width: 20px;
+}
