@@ -1,0 +1,343 @@
+[{
+    "id": "afec0d8f-60a9-47ea-9f6c-30a0b16abab0",
+    "stars": 2.1,
+    "total_votes": 2008,
+    "reviews": 784,
+    "cost_for_one": 3742,
+    "categories": [
+      "Chinese",
+      "North Indian"
+    ],
+    "payment_method": {
+      "upi": false,
+      "cash": false,
+      "card": false
+    },
+    "img": "http://dummyimage.com/146x234.jpg/dddddd/000000",
+    "restaurant": "luctus ultricies"
+  }, {
+    "id": "5d64d4f6-6369-4038-adea-e1bbe589d9f5",
+    "stars": 1.2,
+    "total_votes": 4182,
+    "reviews": 865,
+    "cost_for_one": 4432,
+    "categories": [
+      "Chinese",
+      "North Indian",
+      "Mughlai"
+    ],
+    "payment_method": {
+      "upi": true,
+      "cash": false,
+      "card": true
+    },
+    "img": "http://dummyimage.com/129x190.png/dddddd/000000",
+    "restaurant": "id"
+  }, {
+    "id": "96eb4c18-53a5-403e-ac3d-c931ae98ed0b",
+    "stars": 2.2,
+    "total_votes": 7655,
+    "reviews": 423,
+    "cost_for_one": 4187,
+    "categories": [
+      "North Indian"
+    ],
+    "payment_method": {
+      "upi": true,
+      "cash": false,
+      "card": false
+    },
+    "img": "http://dummyimage.com/150x159.jpg/cc0000/ffffff",
+    "restaurant": "proin risus"
+  }, {
+    "id": "9bc84783-f035-43a4-ab43-c066fd800935",
+    "stars": 1.8,
+    "total_votes": 5124,
+    "reviews": 143,
+    "cost_for_one": 1875,
+    "categories": [
+      "Bengali"
+    ],
+    "payment_method": {
+      "upi": false,
+      "cash": false,
+      "card": true
+    },
+    "img": "http://dummyimage.com/219x160.bmp/cc0000/ffffff",
+    "restaurant": "nunc"
+  }, {
+    "id": "aaaa9264-32dd-486a-be92-80b06b69aa2a",
+    "stars": 3.4,
+    "total_votes": 1144,
+    "reviews": 564,
+    "cost_for_one": 3887,
+    "categories": [
+      "Mughlai",
+      "South Indian",
+      "Bengali"
+    ],
+    "payment_method": {
+      "upi": false,
+      "cash": true,
+      "card": true
+    },
+    "img": "http://dummyimage.com/120x224.jpg/5fa2dd/ffffff",
+    "restaurant": "maecenas leo"
+  }, {
+    "id": "ec10fee7-0185-4bac-8a1f-4cf56f428a71",
+    "stars": 1.8,
+    "total_votes": 9263,
+    "reviews": 62,
+    "cost_for_one": 509,
+    "categories": [
+      "North Indian",
+      "Chinese",
+      "South Indian"
+    ],
+    "payment_method": {
+      "upi": false,
+      "cash": true,
+      "card": false
+    },
+    "img": "http://dummyimage.com/196x123.jpg/ff4444/ffffff",
+    "restaurant": "elit"
+  }, {
+    "id": "3f56146d-14f1-46e1-b092-248f0d3d2394",
+    "stars": 1.2,
+    "total_votes": 4414,
+    "reviews": 714,
+    "cost_for_one": 3162,
+    "categories": [
+      "South Indian"
+    ],
+    "payment_method": {
+      "upi": true,
+      "cash": false,
+      "card": false
+    },
+    "img": "http://dummyimage.com/115x105.png/ff4444/ffffff",
+    "restaurant": "ante vel"
+  }, {
+    "id": "5c55f53f-41d1-4698-91a8-cd949588a84b",
+    "stars": 4.5,
+    "total_votes": 3728,
+    "reviews": 350,
+    "cost_for_one": 2832,
+    "categories": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "payment_method": {
+      "upi": true,
+      "cash": true,
+      "card": true
+    },
+    "img": "http://dummyimage.com/115x180.png/cc0000/ffffff",
+    "restaurant": "interdum"
+  }, {
+    "id": "2a69c422-012e-4a3a-ac72-98261c885073",
+    "stars": 1.1,
+    "total_votes": 9541,
+    "reviews": 818,
+    "cost_for_one": 4504,
+    "categories": [
+      "Continental",
+      "Bengali",
+      "Chinese"
+    ],
+    "payment_method": {
+      "upi": true,
+      "cash": false,
+      "card": false
+    },
+    "img": "http://dummyimage.com/177x221.jpg/ff4444/ffffff",
+    "restaurant": "et"
+  }, {
+    "id": "59c5f386-368d-4592-b49d-9b1f2eabed48",
+    "stars": 2.0,
+    "total_votes": 6207,
+    "reviews": 21,
+    "cost_for_one": 3106,
+    "categories": [
+      "Bengali"
+    ],
+    "payment_method": {
+      "upi": true,
+      "cash": true,
+      "card": true
+    },
+    "img": "http://dummyimage.com/208x101.jpg/dddddd/000000",
+    "restaurant": "sapien cursus"
+  }, {
+    "id": "3e1ab96f-4fea-4a50-8a39-df3cc1a29982",
+    "stars": 3.5,
+    "total_votes": 996,
+    "reviews": 566,
+    "cost_for_one": 1936,
+    "categories": [
+      "Bengali"
+    ],
+    "payment_method": {
+      "upi": false,
+      "cash": false,
+      "card": true
+    },
+    "img": "http://dummyimage.com/109x200.png/ff4444/ffffff",
+    "restaurant": "scelerisque mauris"
+  }, {
+    "id": "dc98c971-6e29-46b0-83ed-58a23d1f9121",
+    "stars": 2.5,
+    "total_votes": 6174,
+    "reviews": 422,
+    "cost_for_one": 999,
+    "categories": [
+      "North Indian",
+      "Mughlai",
+      "Chinese"
+    ],
+    "payment_method": {
+      "upi": false,
+      "cash": false,
+      "card": false
+    },
+    "img": "http://dummyimage.com/137x219.png/cc0000/ffffff",
+    "restaurant": "eleifend donec"
+  }, {
+    "id": "f8d65c1f-e37f-470d-a6b3-765f033593d0",
+    "stars": 3.1,
+    "total_votes": 8621,
+    "reviews": 677,
+    "cost_for_one": 4171,
+    "categories": [
+      "South Indian",
+      "Bengali",
+      "North Indian"
+    ],
+    "payment_method": {
+      "upi": false,
+      "cash": false,
+      "card": false
+    },
+    "img": "http://dummyimage.com/120x201.png/dddddd/000000",
+    "restaurant": "quam nec"
+  }, {
+    "id": "568cf300-ddca-418f-929a-6bdf951a7412",
+    "stars": 1.4,
+    "total_votes": 7523,
+    "reviews": 893,
+    "cost_for_one": 594,
+    "categories": [
+      "Continental",
+      "North Indian",
+      "Mughlai"
+    ],
+    "payment_method": {
+      "upi": false,
+      "cash": false,
+      "card": true
+    },
+    "img": "http://dummyimage.com/169x181.jpg/cc0000/ffffff",
+    "restaurant": "vel sem"
+  }, {
+    "id": "220d485a-44d0-40de-b4c3-40923f84d85f",
+    "stars": 4.4,
+    "total_votes": 775,
+    "reviews": 880,
+    "cost_for_one": 1054,
+    "categories": [
+      "South Indian",
+      "North Indian"
+    ],
+    "payment_method": {
+      "upi": true,
+      "cash": true,
+      "card": false
+    },
+    "img": "http://dummyimage.com/201x195.jpg/dddddd/000000",
+    "restaurant": "suscipit ligula"
+  }, {
+    "id": "f638a2c0-93f2-45a5-a966-8b7f96fc6094",
+    "stars": 3.4,
+    "total_votes": 2545,
+    "reviews": 796,
+    "cost_for_one": 605,
+    "categories": [
+      "North Indian",
+      "South Indian"
+    ],
+    "payment_method": {
+      "upi": false,
+      "cash": false,
+      "card": true
+    },
+    "img": "http://dummyimage.com/146x250.bmp/5fa2dd/ffffff",
+    "restaurant": "sed ante"
+  }, {
+    "id": "31ce0e56-7355-4dec-a1a0-7a5feef9964c",
+    "stars": 1.4,
+    "total_votes": 3048,
+    "reviews": 1000,
+    "cost_for_one": 3563,
+    "categories": [
+      "Bengali"
+    ],
+    "payment_method": {
+      "upi": false,
+      "cash": true,
+      "card": true
+    },
+    "img": "http://dummyimage.com/120x137.png/ff4444/ffffff",
+    "restaurant": "turpis"
+  }, {
+    "id": "f17b9d54-3238-403f-9250-7a25977ace83",
+    "stars": 4.1,
+    "total_votes": 6319,
+    "reviews": 221,
+    "cost_for_one": 679,
+    "categories": [
+      "Bengali",
+      "Mughlai"
+    ],
+    "payment_method": {
+      "upi": false,
+      "cash": true,
+      "card": true
+    },
+    "img": "http://dummyimage.com/194x249.jpg/5fa2dd/ffffff",
+    "restaurant": "placerat praesent"
+  }, {
+    "id": "88d8d6f0-b37d-4966-823c-181fda87cd8f",
+    "stars": 5.0,
+    "total_votes": 108,
+    "reviews": 193,
+    "cost_for_one": 2485,
+    "categories": [
+      "South Indian",
+      "Continental",
+      "North Indian"
+    ],
+    "payment_method": {
+      "upi": true,
+      "cash": false,
+      "card": true
+    },
+    "img": "http://dummyimage.com/212x117.png/5fa2dd/ffffff",
+    "restaurant": "eleifend luctus"
+  }, {
+    "id": "6b06fcd8-ba17-42ad-b622-c06a942551be",
+    "stars": 2.7,
+    "total_votes": 7529,
+    "reviews": 168,
+    "cost_for_one": 4201,
+    "categories": [
+      "Bengali",
+      "Continental"
+    ],
+    "payment_method": {
+      "upi": false,
+      "cash": true,
+      "card": false
+    },
+    "img": "http://dummyimage.com/131x103.png/cc0000/ffffff",
+    "restaurant": "est"
+  }]    
