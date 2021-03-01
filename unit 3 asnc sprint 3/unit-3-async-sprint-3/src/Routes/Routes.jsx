@@ -11,7 +11,7 @@ const Routes = () => {
     <div>
       <Navbar />
       <Switch>
-        <Route path="/">
+        <Route exact path="/">
           <Home />
         </Route>
         <Route path="/products">

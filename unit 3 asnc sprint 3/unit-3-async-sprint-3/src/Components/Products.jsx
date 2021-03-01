@@ -5,11 +5,10 @@ import { useHistory, useParams } from "react-router-dom";
 
 function Products() {
   const { data } = React.useContext(AppContext);
-  const { inPro } = useParams();
   const history = useHistory();
 
-  const handleIncard = () => {
-    history.push(`/products/${inPro}`);
+  const handleIncard = (id) => {
+    history.push(`/products/${id}`);
   };
   console.log(data);
   return (
