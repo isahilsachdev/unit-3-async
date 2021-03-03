@@ -10,22 +10,20 @@ const Routes = () => {
   return (
     <div>
       <Navbar />
-      {/* <Switch>
-        <Route path='/'>
+      <Switch>
+        <Route exact path='/'>
           <Home />
         </Route>
         <Route exact path='/login'>
           <Login />
         </Route>
-
         <Route exact path='/products'>
           <Products />
         </Route>
-
         <Route exact path='/products/:inPro'>
           <InProduct />
-        </Route> */}
-      {/* </Switch> */}
+        </Route>
+      </Switch>
     </div>
   );
 };

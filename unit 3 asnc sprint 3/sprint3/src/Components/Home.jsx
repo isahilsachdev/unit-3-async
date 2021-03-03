@@ -1,10 +1,11 @@
 import React from 'react';
 import { useHistory } from 'react-router-dom';
-function Home() {
+
+const Home = () => {
   const history = useHistory();
 
   const handleAllProducts = () => {
-    history.push('/products');
+    return history.push('/products');
   };
   return (
     <div>
@@ -12,6 +13,6 @@ function Home() {
       <button onClick={handleAllProducts}>All Products</button>
     </div>
   );
-}
+};
 
 export default Home;
