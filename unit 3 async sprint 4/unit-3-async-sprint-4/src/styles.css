@@ -1,0 +1,20 @@
+body {
+  background-color: #333;
+}
+:any-link {
+  text-decoration: none;
+  color: #fff;
+  margin: 20px;
+  padding: 10px;
+  width: 30px;
+  border: 2px solid black;
+}
+:any-link:hover {
+  font-size: 15px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 10px;
+}
